@@ -6,8 +6,6 @@ public class addNewBike(Bike bike){}
 replace it with:
 public class addNewVehicle(IVehicle vehicle){}
 
-6: an object is a part of another object
-
 3: interfaces or abstract classes
 
 4: 1
