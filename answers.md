@@ -1,20 +1,22 @@
-1: polymorphism is something that can take many shapes
+1: omething that can take many forms
 
-2: A method with the same name can do two different things:
+2: public class addNewCar(Car car){}
+public class addNewBike(Bike bike){}
 
-public int add(int num1, int num2){
-    return num1 + num2;
-}
+replace it with:
+public class addNewVehicle(IVehicle vehicle){}
 
-public int add(int num1, int num2, num3){
-    return num1 + num2+ num3;
-}
+6: an object is a part of another object
 
-3: interfaces
+3: interfaces or abstract classes
 
-4: possibly near-infinite?
+4: 1
 
-5: see number 2
+5: public class addNewCar(Car car){}
+public class addNewBike(Bike bike){}
+
+replace it with:
+public class addNewVehicle(IVehicle vehicle){}
 
 6: an object is a part of another object
 
