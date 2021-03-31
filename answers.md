@@ -14,7 +14,7 @@ public int add(int num1, int num2, num3){
 
 4: possibly near-infinite?
 
-5: ??
+5: see number 2
 
 6: an object is a part of another object
 
